@@ -16,7 +16,7 @@ Experience the quote generator functionality in action! Click the 'New Quote' to
 ## ✨ Features
 
 - 🎲 **Random Quote Generation**: Get a new inspirational quote with one click
-- 🐦 **Twitter Integration**: Share your favorite quotes directly on Twitter
+- <img src="https://img.icons8.com/color/20/000000/twitter--v1.png" alt="Twitter" width="20" height="20"> **Twitter Integration**: Share your favorite quotes directly on Twitter
 - ⏳ **Loading States**: Smooth loading spinner while fetching quotes
 - 📱 **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - 🎨 **Dynamic Styling**: Automatically adjusts font size for longer quotes
